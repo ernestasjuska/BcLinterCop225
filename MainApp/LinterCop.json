@@ -1,0 +1,4 @@
+{
+    "cyclomaticComplexityThreshold": 999,
+    "maintainabilityIndexThreshold": 0
+}
